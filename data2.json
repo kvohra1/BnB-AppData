@@ -1,0 +1,186 @@
+[
+    {
+        "id": 0,
+        "emotion": "Anger",
+        "image": "TO:DO - image for Anger",
+        "introductions":
+        [
+            {
+                "id": 0,
+                "viewTitle": "intro",
+                "image": "TO:DO - find image for intro view",
+                "description": "Are you ready to manage anger and bring your body and mind into balance through Earth Healing Mediation?"
+                
+            },
+            {
+                "id": 1,
+                "viewTitle": "account",
+                "image": "TO:DO - find image for create account and sign-up with email views",
+                "description": "In 20 minutes you can learn to manage your anger and learn to love yourself by mastering the energy principle known as Water Up/Fire Down"
+                
+            },
+            {
+                "id": 2,
+                "viewTitle": "welcome",
+                "image": "TO:DO - find image for welcome view",
+                "heading": "Welcome to Earth Healing Mediation",
+                "description": "...where healing yourself by mastering anger heals the Earth!"
+                
+            },
+            {
+                "id": 3,
+                "viewTitle": "principle1",
+                "image": "TO:DO - find image for principle1 view",
+                "description": "Key to managing anger is mastering the Earth Healing Principle of Water Up/Fire Down...meaning having a cool head, open heart and warm belly"
+                
+            },
+            {
+                "id": 4,
+                "viewTitle": "principle2",
+                "image": "TO:DO - find image for principle2 view",
+                "heading": "What is Anger?",
+                "description": "TO:DO -- Need to determine what content to add here"
+                
+            },
+            {
+                "id": 5,
+                "viewTitle": "principle3",
+                "image": "TO:DO - find image for principle3 view",
+                "heading": "What are the triggers for anger?",
+                "description": "TO:DO -- Need to determine what content to add here"
+                
+            },
+            {
+                "id": 6,
+                "viewTitle": "principle4",
+                "image": "TO:DO - find image for principle4 view",
+                "heading": "How do you master the Earth Healing Principle of Water Up/Fire Down and heal yourself and the Earth?",
+                "description": "By taking a journey within yourself through the five steps of Brain Education"
+                
+            },
+            {
+                "id": 7,
+                "viewTitle": "benefits",
+                "image": "TO:DO - find image for benefits of BE view",
+                "heading": "Benefits of Brain Education",
+                "description": "TO:DO -- Need to determine what content to add here"
+                
+            }
+        ],
+        "steps":
+        [
+            {
+                "id": 0,
+                "title": "sensitizing",
+                "image": "TO:DO - find image for Brain Sensitizing Image",
+                "heading1": "What is Brain Sensitizing?",
+                "description1": "Feeling your body while doing yoga and/or mediation in order to bring your mind to the present moment",
+                "heading2": "Why is sensitizing important?",
+                "description2": "To help minimize emotions, past and future thoughts by bringing the mind into the present moment",
+                "trainings":
+                [
+                    {
+                        "id": 0,
+                        "title": "Belly Button Healing",
+                        "video": "xjV7QQ2r2WM",
+                        "duration": "10 minutes",
+                        "explanation": "<div class='section' id='the-basics'><p>Belly Button Healing is a gentle massage for your gut using the Belly Button Healing wand. Try this 10 minute routine of continuous Belly Button Healing and experience the gut healing, muscle relaxing, and mind calming benefits this method has to offer.</p>"
+                        
+                    },
+                    {
+                        "id": 1,
+                        "title": "Brain Wave Vibration",
+                        "video": "KSFJIPeQqz4",
+                        "duration": "10 minutes",
+                        "explanation": "<div class='section' id='the-basics'><p>Brain Wave Vibration is an exercise unique to Brain Education. It can help you reduce stress and clear heaviness and/or fogginess from your brain. Try this 10 minute routine to experience Brain Wave Vibration.</p>"
+                        
+                    },
+                    {
+                        "id": 2,
+                        "title": "Chakra Healing",
+                        "video": "n9MOvMA2kpE",
+                        "duration": "10 minutes",
+                        "explanation": "<div class='section' id='the-basics'><p>Have you ever tried or heard of Chakra Vocal Toning? It's a technique of creating vocal sounds to alter the energy frequency of your chakras. Try this 10 minute chakra vocal toning routine with Jen, a Brain Education instructor and energy guide from Sedona Wellness Cafe.</p>"
+                        
+                    }
+                    
+                ],
+                "mediations":
+                [
+                    {
+                        "id": 0,
+                        "title": "jig gam",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    },
+                    {
+                        "id": 1,
+                        "title": "breathing",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "title": "versatilizing",
+                "image": "TO:DO - find image for Brain Versatilizing Image",
+                "heading1": "What is Brain Versatilizing?",
+                "description1": "Release stress and tension from your body and brain",
+                "heading2": "Why is versatilizing important?",
+                "description2": "TO:DO - Need to answer the question why is versatilizing important",
+                "trainings":
+                [
+                    {
+                        "id": 0,
+                        "title": "TO:DO - Need to determine title for Versatilizing Training #1",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    },
+                    {
+                        "id": 1,
+                        "title": "TO:DO - Need to determine title for Versatilizing Training #2",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    },
+                    {
+                        "id": 2,
+                        "title": "TO:DO - Need to determine title for Versatilizing Training #2",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    }
+                    
+                ],
+                "mediations":
+                [
+                    {
+                        "id": 0,
+                        "title": "TO:DO - Need to determine title for Versatilizing Mediation #1",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    },
+                    {
+                        "id": 1,
+                        "title": "TO:DO - Need to determine title for Versatilizing Mediation #2",
+                        "video": "TO:DO - need to get the video",
+                        "duration": "5 minutes",
+                        "explanation": "TO:DO - provide some explanation"
+                        
+                    }
+                ]
+            }
+        ]
+    }
+]
